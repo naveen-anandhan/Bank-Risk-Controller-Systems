@@ -69,6 +69,13 @@ This project is designed to help users understand their risk profile by predicti
    - **Model**: Input user details to get loan defaulter predictions.
    - **Multiple Prediction**: Upload a CSV to get predictions for multiple users.
    - **Chat with PDF**: Upload a PDF and interact with it through the chatbot.
+  
+## sample images
+![data_page](https://github.com/user-attachments/assets/5d149092-1806-4f67-b3f5-070249871cf9)
+![EDA_page](https://github.com/user-attachments/assets/a50f4363-0d22-4f75-a5cb-2d3930064268)
+![model_page](https://github.com/user-attachments/assets/576a53c9-ff9b-4a94-935c-b483416a9f54)
+![multiple_page](https://github.com/user-attachments/assets/c031fa8d-aadc-4e10-980f-ec2657a631db)
+![bot3](https://github.com/user-attachments/assets/7e676471-9d49-4a0b-a079-b400f2f1dd37)
 
 ## Files
 
