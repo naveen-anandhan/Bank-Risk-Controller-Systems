@@ -1,0 +1,31 @@
+# General packages
+pandas==2.2.2
+numpy==1.26.4
+pickle5==0.0.12
+scipy==1.14.0
+scikit-learn==1.5.1
+sentence-transformers==3.0.1
+matplotlib==3.9.2
+seaborn==0.13.2
+imbalanced-learn
+xgboost
+pdfplumber==0.11.3
+python-dotenv==1.0.1
+streamlit==1.37.1
+# Specific packages
+langchain==0.2.12
+python-box==7.2.0
+pypdf==4.3.1
+faiss-cpu==1.8.0
+ctransformers
+huggingface_hub
+
+# PyTorch and related packages
+torch==2.3.1+cu121
+torchvision==0.18.1+cu121
+torchaudio==2.3.1+cu121
+-f https://download.pytorch.org/whl/cu121/torch_stable.html
+
+# langchain-community is a separate package
+langchain-community==0.2.11
+langchain-huggingface==0.0.3
