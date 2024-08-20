@@ -41,7 +41,7 @@ This project is designed to help users understand their risk profile by predicti
 
 1. Clone the repository:
    ```bash
-   git clone <repository_url>
+   git clone [<repository_url>](https://github.com/naveen-anandhan/Bank-Risk-Controller-Systems.git)
    cd <repository_directory>
    ```
 
