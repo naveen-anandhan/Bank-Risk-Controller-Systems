@@ -89,4 +89,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Contact
 
-For any questions or feedback, please contact Naveen Anandhan at [email@example.com](mailto:email@example.com).
+Created by [Naveen Anandhan](https://www.linkedin.com/in/naveen-anandhan-8b03b62a5/?trk=public-profile-join-page) - feel free to contact me!
